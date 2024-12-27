@@ -1,0 +1,13 @@
+.btn-primary {
+    background-color: chocolate;
+    border: 1px chocolate;
+}
+
+.btn-primary:hover {
+    background-color: chocolate;
+    border: 1px chocolate;
+}
+
+.btn-primary-subtle {
+    background-color: rgb(184, 120, 67);
+}
